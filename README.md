@@ -1,4 +1,4 @@
-# 🚗 Driver Drowsiness Detection System 😴
+# Drowsiness Detection System 😴
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)
@@ -9,7 +9,7 @@
 
 ---
 
-A real-time computer vision-based system that detects driver drowsiness using eye aspect ratio (EAR) and alerts the user with an alarm when signs of sleep are detected.
+A real-time computer vision-based system that detects drowsiness using eye aspect ratio (EAR) and alerts the user with an alarm when signs of sleep are detected.
 
 ---
 
@@ -17,7 +17,7 @@ A real-time computer vision-based system that detects driver drowsiness using ey
 
 This project uses **OpenCV**, **dlib**, and **facial landmark detection** to monitor a driver's eye movements through a webcam. It calculates the **Eye Aspect Ratio (EAR)** to determine whether the eyes are open, drowsy, or closed.
 
-If the system detects that the driver is falling asleep, it triggers a **continuous alarm** to alert them and prevent accidents.
+If the system detects that the user is falling asleep, it triggers a **continuous alarm** to alert them and prevent accidents.
 
 ---
 
