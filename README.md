@@ -1,6 +1,6 @@
 # Drowsiness Detection System 😴
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)
 ![dlib](https://img.shields.io/badge/dlib-Facial%20Landmarks-orange)
 ![Status](https://img.shields.io/badge/Project-Complete-brightgreen)
