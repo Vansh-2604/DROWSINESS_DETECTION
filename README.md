@@ -129,7 +129,7 @@ Press **ESC** to exit.
 
 * Webcam 📷
 * Windows OS (for winsound)
-* Python 3.x
+* Python 3.14
 
 ---
 
